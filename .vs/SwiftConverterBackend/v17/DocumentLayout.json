@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loren\\OneDrive\\Documentos\\ConvMio\\SwiftConverterBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F1C29C-44BA-462D-BB1B-7F78F8D344C1}|Common\\Common.csproj|c:\\users\\loren\\onedrive\\documentos\\convmio\\swiftconverterbackend\\common\\dto\\currencyforview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F1C29C-44BA-462D-BB1B-7F78F8D344C1}|Common\\Common.csproj|solutionrelative:common\\dto\\currencyforview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C981F6A-FCB8-49BE-9A9A-92A1EF314274}|SwiftConverter\\Web.csproj|c:\\users\\loren\\onedrive\\documentos\\convmio\\swiftconverterbackend\\swiftconverter\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C981F6A-FCB8-49BE-9A9A-92A1EF314274}|SwiftConverter\\Web.csproj|solutionrelative:swiftconverter\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1335555173:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:905892976:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrencyForView.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documentos\\ConvMio\\SwiftConverterBackend\\Common\\DTO\\CurrencyForView.cs",
+              "RelativeDocumentMoniker": "Common\\DTO\\CurrencyForView.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documentos\\ConvMio\\SwiftConverterBackend\\Common\\DTO\\CurrencyForView.cs",
+              "RelativeToolTip": "Common\\DTO\\CurrencyForView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T00:38:32.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documentos\\ConvMio\\SwiftConverterBackend\\SwiftConverter\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SwiftConverter\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documentos\\ConvMio\\SwiftConverterBackend\\SwiftConverter\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SwiftConverter\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T00:24:57.903Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 443,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1055384078:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\loren\OneDrive\Documentos\ConvMio\SwiftConverterBackend\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\loren\OneDrive\Documentos\ConvMio\SwiftConverterBackend\Common\bin\Debug\net8.0\Common.dll
+C:\Users\loren\OneDrive\Documentos\ConvMio\SwiftConverterBackend\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\loren\OneDrive\Documentos\ConvMio\SwiftConverterBackend\Common\bin\Debug\net8.0\Data.dll
+C:\Users\loren\OneDrive\Documentos\ConvMio\SwiftConverterBackend\Common\bin\Debug\net8.0\Data.pdb
+C:\Users\loren\OneDrive\Documentos\ConvMio\SwiftConverterBackend\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+C:\Users\loren\OneDrive\Documentos\ConvMio\SwiftConverterBackend\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\OneDrive\Documentos\ConvMio\SwiftConverterBackend\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\loren\OneDrive\Documentos\ConvMio\SwiftConverterBackend\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\loren\OneDrive\Documentos\ConvMio\SwiftConverterBackend\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\loren\OneDrive\Documentos\ConvMio\SwiftConverterBackend\Common\obj\Debug\net8.0\Common.sourcelink.json
+C:\Users\loren\OneDrive\Documentos\ConvMio\SwiftConverterBackend\Common\obj\Debug\net8.0\Common.csproj.Up2Date
+C:\Users\loren\OneDrive\Documentos\ConvMio\SwiftConverterBackend\Common\obj\Debug\net8.0\Common.dll
+C:\Users\loren\OneDrive\Documentos\ConvMio\SwiftConverterBackend\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\loren\OneDrive\Documentos\ConvMio\SwiftConverterBackend\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\loren\OneDrive\Documentos\ConvMio\SwiftConverterBackend\Common\obj\Debug\net8.0\ref\Common.dll
